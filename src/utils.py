@@ -1,0 +1,1 @@
+# this file will contain all the utility functions that we will be using in our project. Like reading the data, writing the data from database(mongodb), save the model into the cloud(code of it can be written here).
