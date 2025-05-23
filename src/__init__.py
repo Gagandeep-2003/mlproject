@@ -1,0 +1,1 @@
+# it will help us to create the package of the application. So, src folder will be treated as package by the python interpreter and also the findpackage function we using in setup.py and also it will build it after which it can be distributed, installed and run from any system.

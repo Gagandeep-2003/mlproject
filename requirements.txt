@@ -1,0 +1,5 @@
+pandas
+numpy
+scikit-learn
+seaborn
+-e . # it is indication to setup.py and it will then create mlproject.egg-info folder with basic information about our project.
