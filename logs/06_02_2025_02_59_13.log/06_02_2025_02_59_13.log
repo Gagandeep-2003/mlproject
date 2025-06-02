@@ -1,0 +1,4 @@
+[ 2025-06-02 02:59:13,753 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-06-02 02:59:13,761 ] 97 werkzeug - INFO -  * Debugger PIN: 240-744-672
+[ 2025-06-02 02:59:14,266 ] 97 werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 02:59:14] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-06-02 02:59:26,289 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\timeit.py', reloading

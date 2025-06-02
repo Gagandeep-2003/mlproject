@@ -1,0 +1,1 @@
+[ 2025-05-31 17:28:18,665 ] 31 root - ERROR - Error occurred in python script [C:\Users\Gagandeep Singh\Documents\Data Science\DATA_SCIENCE_AND_MACHINE_LEARNING_COURSE\End-to-End-MLProject\END_TO_END_ML_PROJECT(SOLUTION)\mlproject-main\src\exception.py] at line [29]: division by zero
